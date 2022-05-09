@@ -3,7 +3,7 @@
 My name is László Kornél Frank and I run the website opendsp.neocities.org.
 
 The project is aimed to give some help to newcommers to DSP programming.
-<a href="opendsp.neocities.org" target="_blank">More info at neocities</a>
+<a href="https://opendsp.neocities.org" target="_blank">More info at neocities</a>
 
 
 <!---
